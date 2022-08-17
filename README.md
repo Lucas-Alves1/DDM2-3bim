@@ -2,4 +2,6 @@
 O projeto terá como foco a coleta de dados, armazenamento e disponibilização de informações com o foco em livros.
 
 - Protótipo das telas utilizando o Figma (https://www.figma.com/file/Ts6H2KsOyN8GdvAXSZs34t/prot%C3%B3tipo-ddm?node-id=0%3A1)
-- Construção do app pelo AppInventor 
+- Construção do app pelo AppInventor
+
+Integrantes: Lucas Alves e Mateus Moretti
